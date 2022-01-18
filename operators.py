@@ -8,3 +8,5 @@ print("Multiplication:",intval*floatval)
 print("Bodmas:",intval+floatval-intval/floatval*intval)
 print("Bodmas:",((intval+floatval)-(intval/floatval))*(intval*intval))
 print("Bodmas:",((intval+floatval)-(intval/floatval))*(intval*intval)/floatval)
+
+
