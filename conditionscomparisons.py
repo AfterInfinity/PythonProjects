@@ -25,4 +25,12 @@ if(value1%2==0):
 else:
     print("Numbe is Odd")
 
+alpha=input("Enter a Alphabet:")
+if(alpha=='a' or alpha=='e' or alpha=='i' or alpha=='o' or alpha=='u'):
+    print("Alphabet",alpha,"is Vowel")
+else:
+    print("Alphabet",alpha,"Is a Consonent")
 
+    
+
+print
