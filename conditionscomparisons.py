@@ -31,6 +31,4 @@ if(alpha=='a' or alpha=='e' or alpha=='i' or alpha=='o' or alpha=='u'):
 else:
     print("Alphabet",alpha,"Is a Consonent")
 
-    
 
-print
