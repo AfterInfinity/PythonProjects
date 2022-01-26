@@ -19,3 +19,5 @@ while(i<=5):
 num4table=int(input("Enter Number for Table: "))
 for i in range(1,11):
     print(num4table,"*",i,"=",num4table*i)
+
+    

@@ -32,3 +32,9 @@ else:
     print("Alphabet",alpha,"Is a Consonent")
 
 
+numberList=range(1,1000)
+for num in numberList:
+    if num%2==0:
+        print("Even Number",num)
+    else:
+        print("Odd Number ",num)
